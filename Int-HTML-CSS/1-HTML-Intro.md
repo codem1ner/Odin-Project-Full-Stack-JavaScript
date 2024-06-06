@@ -12,8 +12,6 @@ This is the first of the two part course where we dig deeper into HTML and CSS.
 - By the time you finish this course, you’ll be able to recreate just about any web design you can find on the internet… which is an important skill to carry forward. 
 - Learn about animations, accessibility, and responsive design 
 
-
-
 ## Assignment
 
 1. [HTML Elements Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) 
