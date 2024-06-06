@@ -8,7 +8,7 @@ Customised course notes from The Odin Project's Full Stack JavaScript course.
 - [x] 1. [Introduction](https://github.com/codem1ner/Odin-Project-Full-Stack-JavaScript/blob/main/Int-HTML-CSS/1-HTML-Intro.md) 
 - [x] 2. Emmet
 - [x] 3. SVG
-- [x] 4. xTables
+- [x] 4. Tables
 
 ### CSS
 
